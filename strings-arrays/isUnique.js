@@ -1,3 +1,5 @@
+//Write algorithm to determine if string contains all unique characters
+
 /* first guess
   var isUnique = function(string) {
     var charObject = {}
